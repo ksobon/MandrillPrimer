@@ -23,6 +23,11 @@ There are couple of things that you can define for the appearance of the Grouped
 
 ###Example of style definition:
 
-
+![](groupedBarChart/groupedBarChartStyle.PNG)
 
 ##Other:
+
+<blockquote>
+###Tip:
+If you are not specifying a custom range of colors to be used for this chart, please make sure to feed in a <b>null</b> value to the Colors input. It will cause an exception otherwise. 
+</blockquote>

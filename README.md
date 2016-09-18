@@ -8,11 +8,11 @@ Also, I have to thank people that got me started on this project, and in some sm
 
 Current Support is for Dynamo 1.1. Available charts are as follows: 
 
-1. Bar Chart (sortable on click by either X or Y axis).
+1. [Bar Chart (sortable on click by either X or Y axis)](barChart.md)
 2. Area Chart
 3. Line Chart
 4. Stacked Bar Chart
-5. Grouped Bar Chart
+5. [Grouped Bar Chart](groupedBarChart.md)
 6. Donut Chart
 7. Scatter Plot
 

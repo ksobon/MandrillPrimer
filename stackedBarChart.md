@@ -15,7 +15,7 @@ There are two ways of defining data for Stacked Bar Chart. You can use a CSV fil
 
 Another way to define data is to generate it from a list directly in Dynamo. You can do it like so: 
 
-![](groupedBarChart/groupedBarChartDataManual.PNG)
+![](stackedBarChart/stackedBarChartData.PNG)
 
 <blockquote>
 Tip: Domain for a Stacked bar chart is defined as a <b>sum</b> of all values within the group. Basically, to get a correctly rendered chart please make sure that your upped Domain value (B) is larger than the maximum of all values within each group.

@@ -1,6 +1,6 @@
 #Bar Chart
 
-![](/barChart/barChartImage.png)
+![](barChart/barChartImage.PNG)
 
 ##Data:
 

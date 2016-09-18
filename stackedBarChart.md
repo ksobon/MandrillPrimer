@@ -35,4 +35,6 @@ There are couple of things that you can define for the appearance of the Stacked
 Tip:If you are not specifying a custom range of colors to be used for this chart, please make sure to feed in a <b>null</b> value to the Colors input. It will cause an exception otherwise. 
 </blockquote>
 
+<blockquote>
 Stacked Bar Chart is by default sorted in descending order by total of all values in a Stacked Group. 
+</blockquote>

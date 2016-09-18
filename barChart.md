@@ -36,3 +36,11 @@ You can have multiple charts in a single row. Please use the "+" and "-" buttons
 ###Create Report
 
 You can have more than one row in a Window. You can feed all of your Row Containers into this node to combine them into a "Report" or "Dashboard" style Window. 
+
+###Sorting:
+
+Clicking on a bar in Bar Chart will result in Bar Chart data sorting event. On a first click, your data will sort itself alphabetically by X Axis names. Clicking on it again, will result in sorting by Y Axis values in descending order from Left to Right. 
+
+![](barChart/barChartAnimation.gif)
+
+

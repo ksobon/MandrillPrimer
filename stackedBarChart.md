@@ -1,6 +1,6 @@
 #Stacked Bar Chart
 
-![](stackedBarChart/stackedBarChartImage/PNG)
+![](stackedBarChart/stackedBarChartImage.PNG)
 
 ##Data:
 

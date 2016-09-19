@@ -1,6 +1,6 @@
 #Parallel Coordinates
 
-![](groupedBarChart/groupedBarChartImage.PNG)
+![](parallelCoordinates/pcImage.PNG)
 
 ##Data:
 

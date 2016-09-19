@@ -6,5 +6,6 @@
    * [Grouped Bar Chart](groupedBarChart.md)
    * [Stacked Bar Chart](stackedBarChart.md)
    * [Donut Chart](donutChart.md)
+   * [AreaChart](areaChart.md)
 * [Displays](displays_main.md)
    * [Window](window.md)

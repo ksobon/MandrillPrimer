@@ -23,7 +23,7 @@ There are couple of things that you can define for the appearance of the Paralle
 
 ###Example of style definition:
 
-![](parallelCoordinates/pcStyle.PNG)
+![](parallelCoordinates/pcStyle.gif)
 
 ##Other:
 

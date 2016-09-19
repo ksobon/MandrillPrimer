@@ -9,12 +9,12 @@ Also, I have to thank people that got me started on this project, and in some sm
 Current Support is for Dynamo 1.1. Available charts are as follows: 
 
 1. [Bar Chart](barChart.md)
-2. Area Chart
-3. Line Chart
+2. [Area Chart](areaChart.md)
+3. [Line Chart](lineChart.md)
 4. [Stacked Bar Chart](stackedBarChart.md)
 5. [Grouped Bar Chart](groupedBarChart.md)
 6. [Donut Chart](donutChart.md)
-7. Scatter Plot
+7. [Scatter Plot](scatterPlot.md)
 
 Also currently supported modes of viewing the charts are via:
 

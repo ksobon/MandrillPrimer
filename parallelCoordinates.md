@@ -11,7 +11,7 @@ There are two ways of defining data for Parallel Coordinates Chart. You can use 
 
 ###Example of CSV data:
 
-![](groupedBarChart/groupedBarChartData.PNG)
+![](parallelCoordinates/pcData.PNG)
 
 Another way to define data is to generate it from a list directly in Dynamo. You can do it like so: 
 

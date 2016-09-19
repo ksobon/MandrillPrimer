@@ -23,7 +23,7 @@ There are couple of things that you can define for the appearance of the Paralle
 
 ###Example of style definition:
 
-![](parallelCoordinates/pcStyle.gif)
+![](parallelCoordinates/pcStyle.PNG)
 
 ##Other:
 
@@ -34,4 +34,4 @@ Tip: A range for each axis is determined automatically between min-max values us
 Tip: Parallel Coordinates Charts are probably most useful for data samples that contain more than couple hundreds sample points. For things that only contain a handful of data points, please consider using a Stacked Bar Chart or even a Grouped Bar Chart.
 </blockquote>
 
-![](parallelCoordinates/pcAnimation.PNG)
+![](parallelCoordinates/pcAnimation.gif)

@@ -31,4 +31,4 @@ Donut Chart Style has a few things that can be set optionally to control the vis
 Tip: Width and Height in Donut chart are used a little different than in other charts. Only the smaller of two values is used to determine the Radius of the chart. It's a good idea to use the Height as the smaller value to control the radius, while always make the Width bigger to accomodate for size of labels. If there isn't enough width in the chart, labels might get cropped off. 
 </blockquote>
 
-![](barChart/barChartAnimation.gif)
+![](donutChart/donutChartAnimation.gif)

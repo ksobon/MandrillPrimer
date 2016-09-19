@@ -13,7 +13,7 @@ Current Support is for Dynamo 1.1. Available charts are as follows:
 3. Line Chart
 4. [Stacked Bar Chart](stackedBarChart.md)
 5. [Grouped Bar Chart](groupedBarChart.md)
-6. Donut Chart
+6. [Donut Chart](donutChart.md)
 7. Scatter Plot
 
 Also currently supported modes of viewing the charts are via:

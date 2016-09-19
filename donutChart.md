@@ -19,7 +19,7 @@ Another possible way is to define the data in Dynamo directly and then use the n
 
 ##Style:
 
-Bar Chart Style has a few simple things that can optionally be defined to control the visual appearance of the chart. First two inputs are for controling a color. You can either use a Dynamo Color node or a little bit of DesignScript syntax and a Code Block to define that input. Example: `DSCore.Color.ByARGB(1,220,180,20)`. <b>Width</b> and <b>Height</b> are integer inputs that by default are set to 1000px x 500px. The actual size of the chart is always a little smaller because of margins required for handling axis graphics etc. <b>TickMarksX</b> are an integer input. These define a number of data point names that are being displayed below X Axis. If you have a small data sample or really short names then it makes sense to render them all, but if you have a large data sample, to avoid overlapping text just enter a value that displays less names. Example of a Bar Chart rendered above and its style: 
+Donut Chart Style has a few things that can be set optionally to control the visual appearance of the chart. First two inputs are for controling a color. You can either use a Dynamo Color node or a little bit of DesignScript syntax and a Code Block to define that input. Example: `DSCore.Color.ByARGB(1,220,180,20)`. <b>Width</b> and <b>Height</b> are integer inputs that by default are set to 1000px x 500px. The actual size of the chart is always a little smaller because of margins required for handling axis graphics etc. There are also two boolean inputs for <b>Labels</b> and <b>Legend</b>. You probably don't want to show, both, as they basically display the same information. Legend will appear next or below the chart while Labels will be surrounding the chart itself.  
 
 ![](donutChart/donutChartStyle.PNG)
 
@@ -27,6 +27,8 @@ Bar Chart Style has a few simple things that can optionally be defined to contro
 
 ###Legends:
 
-Clicking on a bar in Bar Chart will result in Bar Chart data sorting event. On a first click, your data will sort itself alphabetically by X Axis names. Clicking on it again, will result in sorting by Y Axis values in descending order from Left to Right. 
+<blockquote>
+Tip: Width and Height in Donut chart are used a little different than in other charts. Only the smaller of two values is used to determine the Radius of the chart. It's a good idea to use the Height as the smaller value to control the radius, while always make the Width bigger to accomodate for size of labels. If there isn't enough width in the chart, labels might get cropped off. 
+</blockquote>
 
 ![](barChart/barChartAnimation.gif)

@@ -29,13 +29,9 @@ Bar Chart Style has a few simple things that can optionally be defined to contro
 
 ##Other:
 
-###Row Container
-
-You can have multiple charts in a single row. Please use the "+" and "-" buttons to create more inputs. 
-
 ###Create Report
 
-You can have more than one row in a Window. You can feed all of your Row Containers into this node to combine them into a "Report" or "Dashboard" style Window. 
+You can have more than one chart in a Window. You can feed all of your Charts into this node to combine them into a "Report" or "Dashboard" style Window. 
 
 ###Sorting:
 

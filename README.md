@@ -8,7 +8,7 @@ Also, I have to thank people that got me started on this project, and in some sm
 
 You can download this content as a PDF or EPUB book from the following location: [Mandrill Primer](https://konradsobon.gitbooks.io/mandrill-primer/content/)
 
-Current Support is for Dynamo 1.1. Available charts are as follows: 
+Current Support is for Dynamo 1.2. Available charts are as follows: 
 
 1. [Bar Chart](barChart.md)
 2. [Area Chart](areaChart.md)
@@ -21,7 +21,7 @@ Current Support is for Dynamo 1.1. Available charts are as follows:
 
 Also currently supported modes of viewing the charts are via:
 
-1. Additional Window using IE Web Browser.
-2. Export to PDF
+1. Additional Window using Chrome Browser.
+2. Export to PDF.
 
 Please support this project by posting to Issues page.

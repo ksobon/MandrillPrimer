@@ -8,7 +8,7 @@
    * [Donut Chart](donutChart.md)
    * [AreaChart](areaChart.md)
    * [Parallel Coordinates](parallelCoordinates.md)
-   * Horizontal Bar Chart
+   * [Horizontal Bar Chart](horizontal_bar_chart.md)
 * [Misc Nodes](misc_nodes.md)
    * [Address](address.md)
    * [Domain](domain.md)

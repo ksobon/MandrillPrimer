@@ -12,5 +12,6 @@
    * [Address](address.md)
    * [Domain](domain.md)
    * [Margins](margins.md)
+   * [Legend](legend.md)
 * [Displays](displays_main.md)
    * [Window](window.md)

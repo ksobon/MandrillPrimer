@@ -8,6 +8,7 @@
    * [Donut Chart](donutChart.md)
    * [AreaChart](areaChart.md)
    * [Parallel Coordinates](parallelCoordinates.md)
+   * Horizontal Bar Chart
 * [Misc Nodes](misc_nodes.md)
    * [Address](address.md)
    * [Domain](domain.md)
@@ -15,3 +16,4 @@
    * [Legend](legend.md)
 * [Displays](displays_main.md)
    * [Window](window.md)
+

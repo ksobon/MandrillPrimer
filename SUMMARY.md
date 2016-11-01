@@ -9,6 +9,7 @@
    * [AreaChart](areaChart.md)
    * [Parallel Coordinates](parallelCoordinates.md)
    * [Horizontal Bar Chart](horizontal_bar_chart.md)
+   * [Normalized Stacked Bar Chart](normalizedStackedBarChart.md)
 * [Misc Nodes](misc_nodes.md)
    * [Address](address.md)
    * [Domain](domain.md)
@@ -16,4 +17,3 @@
    * [Legend](legend.md)
 * [Displays](displays_main.md)
    * [Window](window.md)
-

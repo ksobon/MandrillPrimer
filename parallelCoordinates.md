@@ -21,8 +21,6 @@ Another way to define data is to generate it from a list directly in Dynamo. You
 
 There are couple of things that you can define for the appearance of the Parallel Coordinates Chart. First is a <b>Line Color</b>. You can use a Dynamo Color node to define that input or you can use the Design Script syntax like so: `DSCore.Color.ByARGB(1,100,100,100)`. Remaining inputs are integers for <b>Width</b> and <b>Height</b> (default values are 1000px x 500px). 
 
-###Example of style definition:
-
 ![](parallelCoordinates/pcStyle.PNG)
 
 ##Other:

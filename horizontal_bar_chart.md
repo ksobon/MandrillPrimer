@@ -9,7 +9,7 @@ There are two ways of defining data for a Horizontal Bar Chart. First is to use 
 
 ###Example: 
 
-![](barChart/dataSample.PNG)
+![](HorizontalBarChart/horizontalBarChartDataSample.png)
 
 Another possible way is to define the data in Dynamo directly and then use the node <b>HorizontalBarChart.Data</b> to define all of the desired data points. Here's a potential sample of defining data in Dynamo:
 

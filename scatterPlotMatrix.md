@@ -26,5 +26,5 @@ There are couple of things that you can define for the appearance of the Scatter
 ##Other:
 
 <blockquote>
-When defining Colors for Style object keep in mind that due to the nature of Scatter Plot Matrix and the fact that each "row" of data is being displayed multiple times in different relational plots, the colors are actually per "row". I am saying this, because you might have a lot of data rows in the CSV file, and creating a list of custom colors might be tedious. It's best to just leave it undefined and custom colors will be assigned automatically.
+When defining Colors for Style object keep in mind that due to the nature of Scatter Plot Matrix and the fact that each "row" of data is being displayed multiple times in different relational plots, the colors are actually per "row" name. In this sample file its the Group header or the first item in a row. I am saying this, because you might have a lot of data rows in the CSV file, and creating a list of custom colors might be tedious. It's best to just leave it undefined and custom colors will be assigned automatically.
 </blockquote>

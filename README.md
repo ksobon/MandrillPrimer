@@ -18,6 +18,7 @@ Current Support is for Dynamo 1.2. Available charts are as follows:
 6. [Donut Chart](donutChart.md)
 7. [Scatter Plot](scatterPlot.md)
 8. [Parallel Coordinates](parallelCoordinates.md)
+9. [Horizontal Bar Chart](horizontal_bar_chart.md)
 
 Also currently supported modes of viewing the charts are via:
 

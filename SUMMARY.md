@@ -10,6 +10,7 @@
    * [Parallel Coordinates](parallelCoordinates.md)
    * [Horizontal Bar Chart](horizontal_bar_chart.md)
    * [Normalized Stacked Bar Chart](normalizedStackedBarChart.md)
+   * [Scatter Plot Matrix Chart](scatterPlotMatrix.md)
 * [Misc Nodes](misc_nodes.md)
    * [Address](address.md)
    * [Domain](domain.md)

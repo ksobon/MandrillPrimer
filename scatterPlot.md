@@ -7,7 +7,10 @@
 There are two ways of defining data for a Scatter Plot Chart. First is to use a <b>CSV</b> file that was formatted in the following way: 
 
 * First Column is always <b>Name</b> of the data point.
-* Second Column is always the numerical <b>Value</b> for the data point.
+* Second Column is always the numerical <b>ValueX</b> for the data point. Since Scatter Plots chart data in 2 dimensions this is the X-axis value.
+* Third Column is always the numerical <b>ValueY</b> for the data point.
+* Next is <b>Size</b>. This is in a range between 1-10 where 1 is the smallest dot size.
+* After that is the <b>Color</b>. This is again a numerical value. If all data points have the same value assigned, they will all have the same color. If values are different, they will be assigned a color from `Sategory20c`. 
 
 ###Example: 
 

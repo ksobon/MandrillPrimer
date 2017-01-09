@@ -1,6 +1,6 @@
 #Scatter Plot
 
-![](barChart/barChartImage.PNG)
+![](scatterPlot/scatterPlotImage.PNG)
 
 ##Data:
 

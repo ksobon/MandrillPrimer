@@ -21,6 +21,7 @@ Current Support is for Dynamo 1.2. Available charts are as follows:
 9. [Horizontal Bar Chart](horizontal_bar_chart.md)
 10. [Normalized Stacked Bar Chart](normalizedStackedBarChart.md)
 11. [Scatter Plot Matrix](scatterPlotMatrix.md)
+11. [Scatter Plot](scatterPlot.md)
 
 Also currently supported modes of viewing the charts are via:
 

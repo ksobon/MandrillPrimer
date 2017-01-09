@@ -28,7 +28,7 @@ Tip: As you can see in the image above, since Scatter Plots chart data in 2 Dime
 
 Scatter Plot Chart Style has a few simple things that can optionally be defined to control the visual appearance of the chart. First input is for controling the dot color. You can either use a Dynamo Color node or a little bit of DesignScript syntax and a Code Block to define that input. Example: `DSCore.Color.ByARGB(1,220,180,20)`. If you define multiple Colors in the data, and then supply a list of colors here, for them to be assigned properly. <b>Width</b> and <b>Height</b> are integer inputs that by default are set to 1000px x 500px. The actual size of the chart is always a little smaller because of margins required for handling axis graphics etc. Address input can be used to place the chart in a specific location on a page. Grid address represents charts top/left corner. Please see this [page](address.md) for more info on Address. Margins come handy when you need to increase space around the chart to accomodate labels. Please see [this](margins.md) for more info. Example of a Scatter Plot Chart rendered above and its style: 
 
-![](scatterPlot/style.PNG)
+![](scatterPlot/scatterPlotStyle.PNG)
 
 <blockquote>
 Tip: Chart Address gets reset every time you refresh the page. Page refresh happens on every data or style change. Use Address input to "lock" charts to their position on page, otherwise you will have to move them around a lot.
